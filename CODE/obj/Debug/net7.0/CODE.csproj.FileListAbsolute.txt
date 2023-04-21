@@ -1,0 +1,15 @@
+D:\РАЗРАБОТЧИК\C#\FinalTaskC\CODE\bin\Debug\net7.0\CODE.exe
+D:\РАЗРАБОТЧИК\C#\FinalTaskC\CODE\bin\Debug\net7.0\CODE.deps.json
+D:\РАЗРАБОТЧИК\C#\FinalTaskC\CODE\bin\Debug\net7.0\CODE.runtimeconfig.json
+D:\РАЗРАБОТЧИК\C#\FinalTaskC\CODE\bin\Debug\net7.0\CODE.dll
+D:\РАЗРАБОТЧИК\C#\FinalTaskC\CODE\bin\Debug\net7.0\CODE.pdb
+D:\РАЗРАБОТЧИК\C#\FinalTaskC\CODE\obj\Debug\net7.0\CODE.csproj.AssemblyReference.cache
+D:\РАЗРАБОТЧИК\C#\FinalTaskC\CODE\obj\Debug\net7.0\CODE.GeneratedMSBuildEditorConfig.editorconfig
+D:\РАЗРАБОТЧИК\C#\FinalTaskC\CODE\obj\Debug\net7.0\CODE.AssemblyInfoInputs.cache
+D:\РАЗРАБОТЧИК\C#\FinalTaskC\CODE\obj\Debug\net7.0\CODE.AssemblyInfo.cs
+D:\РАЗРАБОТЧИК\C#\FinalTaskC\CODE\obj\Debug\net7.0\CODE.csproj.CoreCompileInputs.cache
+D:\РАЗРАБОТЧИК\C#\FinalTaskC\CODE\obj\Debug\net7.0\CODE.dll
+D:\РАЗРАБОТЧИК\C#\FinalTaskC\CODE\obj\Debug\net7.0\refint\CODE.dll
+D:\РАЗРАБОТЧИК\C#\FinalTaskC\CODE\obj\Debug\net7.0\CODE.pdb
+D:\РАЗРАБОТЧИК\C#\FinalTaskC\CODE\obj\Debug\net7.0\CODE.genruntimeconfig.cache
+D:\РАЗРАБОТЧИК\C#\FinalTaskC\CODE\obj\Debug\net7.0\ref\CODE.dll
